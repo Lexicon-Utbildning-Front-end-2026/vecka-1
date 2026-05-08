@@ -49,7 +49,6 @@ Målet utöver det denna vecka är att förbättra er receptsida med bättre sem
 
 #### 📃 Läsning (detta bör ni titta igenom)
 * [codecademy - Semantic HTML](https://www.codecademy.com/resources/docs/html/semantic-html)
-* [No ARIA is better than bad ARIA.](https://www.a11y-collective.com/blog/aria-in-html/)
 * [Semantic HTML in 2025: The Bedrock of Accessible, SEO-Ready, and Future-Proof Web Experiences](https://dev.to/gerryleonugroho/semantic-html-in-2025-the-bedrock-of-accessible-seo-ready-and-future-proof-web-experiences-2k01)
 * [Dokumentation - MDN - Landmarks](https://developer.mozilla.org/en-US/blog/aria-accessibility-html-landmark-roles/)
 * [Dokumentation - MDN - Accessibility for images](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img#accessibility)
@@ -59,6 +58,7 @@ Målet utöver det denna vecka är att förbättra er receptsida med bättre sem
 
 #### Extra läsning 
 Nedan är lite länkar till fördjupning för de som vill och hinner. Läs det som intresserar er. 
+* [No ARIA is better than bad ARIA.](https://www.a11y-collective.com/blog/aria-in-html/)
 * [css-tricks - Links and Buttons Guide](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
 * [Alt vs figcaption](https://thoughtbot.com/blog/alt-vs-figcaption)
 * [Dokumentation - MDN - The Table element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/table)
