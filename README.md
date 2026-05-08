@@ -54,7 +54,7 @@ Målet utöver det denna vecka är att förbättra er receptsida med bättre sem
 * [Dokumentation - MDN - Accessibility for images](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img#accessibility)
   
 #### 🛠️ Övningar
-* [Extra om ni vill göra extra - Recipe Page (Frontend Mentor)](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
+* [Extra om ni vill öva mer - Recipe Page (Frontend Mentor)](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
 
 #### Extra läsning 
 Nedan är lite länkar till fördjupning för de som vill och hinner. Läs det som intresserar er. 
