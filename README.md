@@ -47,7 +47,7 @@ Målet utöver det denna vecka är att förbättra er receptsida med bättre sem
 * [(YT - The Common Coder) Semantic HTML: What It Is and Why It Matters!](https://www.youtube.com/watch?v=Pf0LC6Rx9dg)
 * [(YT  - Easy A11y Guide) The ARIA Trap: Are You Falling For It?](https://www.youtube.com/watch?v=ldSW_zxqUC0)
 
-#### 📃 Läsning (detta bör ni titta igenom)
+#### 📃 Läsning
 * [codecademy - Semantic HTML](https://www.codecademy.com/resources/docs/html/semantic-html)
 * [Semantic HTML in 2025: The Bedrock of Accessible, SEO-Ready, and Future-Proof Web Experiences](https://dev.to/gerryleonugroho/semantic-html-in-2025-the-bedrock-of-accessible-seo-ready-and-future-proof-web-experiences-2k01)
 * [Dokumentation - MDN - Landmarks](https://developer.mozilla.org/en-US/blog/aria-accessibility-html-landmark-roles/)
