@@ -5,6 +5,7 @@
 ## 📚 Material
 
 ### 💻 E-Learning
+Dessa är samlade kurser men väldigt omfattande, så inget ni måste titta på. Se om det är något som hjälper er bara, är ni nya på detta kan det vara bra att kolla på. Prioritera det som ligger under e-learning Onsdag och Fredag framför allt denna vecka oavsett. 
 * [HTML & CSS Path](https://app.pluralsight.com/paths/skill/building-websites-with-html-css-and-javascript)
 * [VS Code Path](https://app.pluralsight.com/paths/skill/visual-studio-code)
 * [WCAG Path](https://app.pluralsight.com/paths/skill/web-accessibility)
