@@ -57,6 +57,10 @@ Målet utöver det denna vecka är att förbättra er receptsida med bättre sem
 #### 🛠️ Övningar
 * [Extra om ni vill öva mer - Recipe Page (Frontend Mentor)](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
 
+#### Verktyg
+* [För att kolla kontrast](https://webaim.org/resources/contrastchecker/)
+* [WAVE browser extension](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
+
 #### Extra läsning 
 Nedan är lite länkar till fördjupning för de som vill och hinner. Läs det som intresserar er. 
 * [No ARIA is better than bad ARIA.](https://www.a11y-collective.com/blog/aria-in-html/)
