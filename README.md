@@ -85,6 +85,9 @@ Ledigt
 
 Olika tester av kontraster mm, med WAVE, screenreader, tab/tangentbordsnavigation och ev andra verktyg. Skapa skip links
 
+
+### 🛠️ Övningar
+
 Testa att använda Lighthouse, Wave och även skärmläsare.
 
 Jobba vidare på receptsidan. Gör den mer semantisk. Testa den med Wave och lighthouse.
