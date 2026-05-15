@@ -95,6 +95,8 @@ Olika tester av kontraster mm, med WAVE, screenreader, tab/tangentbordsnavigatio
 #### 💻 E-Learning
 * [(Pluralsight) Testing Techniques for Web Accessibility - Del 1 + 2 samt del 3 om WAVE](https://app.pluralsight.com/library/courses/testing-techniques-web-accessibility/table-of-contents)
 * [How to Check Web Accessibility with a Screen Reader and Keyboard](https://www.youtube.com/watch?v=yV_ENQZq3fs)
+* [How to navigate the web with a screen reader (Tutorial)](https://www.youtube.com/watch?v=GQT6btFkO_0)
+* [Screen Reader Demo for Digital Accessibility](https://www.youtube.com/watch?v=dEbl5jvLKGQ)
 
 #### 📃 Läsning
 * [Windows Narrator keyboard shortcuts](https://dequeuniversity.com/screenreaders/narrator-keyboard-shortcuts)
