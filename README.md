@@ -85,16 +85,6 @@ Ledigt
 
 Olika tester av kontraster mm, med WAVE, screenreader, tab/tangentbordsnavigation och ev andra verktyg. Skapa skip links
 
-
-### 🛠️ Övningar
-
-Testa att använda Lighthouse, Wave och även skärmläsare.
-
-Jobba vidare på receptsidan. Gör den mer semantisk. Testa den med Wave och lighthouse.
-Om du vill kan du lägga till en meny för att testa skapa en skiplink.
-
-Känner du att du bahöver läsa på grunderna för CSS och liknande, så gå igenom länkarna som fanns i repot för Test och Kartläggningsveckan.
-
 ### 🎯 Mål för dagen
 
 * Kunna testa tillgänglighet med hjälp av verktyg som WAVE och screenreaders
@@ -111,4 +101,11 @@ Känner du att du bahöver läsa på grunderna för CSS och liknande, så gå ig
 #### 📃 Läsning
 * [Windows Narrator keyboard shortcuts](https://dequeuniversity.com/screenreaders/narrator-keyboard-shortcuts)
 
+
+#### 🛠️ Övningar
+* Testa att använda Lighthouse, Wave och även skärmläsare.
+* Jobba vidare på receptsidan. Gör den mer semantisk. Testa den med Wave och lighthouse.
+* Om du vill kan du lägga till en meny för att testa skapa en skiplink.
+
+Känner du att du bahöver läsa på grunderna för CSS och liknande, så gå igenom länkarna som fanns i repot för Test och Kartläggningsveckan.
 ---
