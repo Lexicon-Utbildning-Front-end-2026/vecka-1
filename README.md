@@ -71,7 +71,7 @@ Nedan är lite länkar till fördjupning för de som vill och hinner. Läs det s
 * [MDN - The Strong Importance element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/strong)](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/em)
 * [Web Content Accessibility (WCAG) – Tillgängligt webbinnehåll](https://pts.se/digital-inkludering/standarder/web-content-accessibility-wcag--tillgangligt-webbinnehall/)
 * [Det här är EN 301 549 och WCAG](https://www.digg.se/webbriktlinjer/lagar-och-krav/det-har-ar-en-301-549-och-wcag)
-* [Om lagen om tillgänglighet till digital offentlig service](https://www.digg.se/analys-och-uppfoljning/lagen-om-tillganglighet-till-digital-offentlig-service-dos-lagen/om-lagen)
+* [Om lagen om tillgänglighet till digital offentlig service](https://www.digg.se/analys-och-uppfoljning/lagen-om-tillganglighet-till-digital-offentlig-service-dos-lagen)
 
 ---
 
